@@ -43,4 +43,14 @@ A simple Streamlit mini app for students to plan study tasks, track deadlines, a
 3. Choose **Create app** and select your repository, branch, and `app.py` as the main file.
 4. Deploy the app and open the generated public URL.
 
+## 🚀 Live Demo
 
+Try the deployed Study Planner & To-Do App here:
+
+[**Open Study Planner & To-Do App**](https://study-planner-to-do-app-hhxp8d34hbujcvxtjktahy.streamlit.app)
+
+## 🛠️ Technologies Used
+- Python
+- Streamlit
+- GitHub
+- Streamlit Community Cloud
