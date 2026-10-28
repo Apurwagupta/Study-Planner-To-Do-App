@@ -43,15 +43,4 @@ A simple Streamlit mini app for students to plan study tasks, track deadlines, a
 3. Choose **Create app** and select your repository, branch, and `app.py` as the main file.
 4. Deploy the app and open the generated public URL.
 
-## Important Note
 
-This beginner version stores tasks in Streamlit session state. Tasks are not saved permanently in a database and may reset when the session restarts. Persistent storage can be added as an extension.
-
-## Student Details
-
-- **Student:** Apurwa
-- **Roll Number:** 06
-- **Faculty Guide:** Anil Walke
-- **College:** ISBM College of Engineering, Nande, Pune
-- **Department:** Artificial Intelligence and Data Science
-- **Academic Year:** 2026–2027
